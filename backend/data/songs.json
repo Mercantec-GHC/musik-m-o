@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Allergy",
+        "artist": "Pa Salieu",
+        "coverPath": "/covers/allergy-image.jpg",
+        "songPath": "/songs/Allergy.mp3"
+    }
+]
