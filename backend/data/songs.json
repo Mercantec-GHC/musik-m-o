@@ -8,135 +8,44 @@
     },
     {
         "id" : 2,
-        "title" : "Golden",
+        "title" : "Free",
         "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
+        "coverPath" : "/covers/free.png",
+        "songPath" : "/songs/free.mp3"
     },
     {
         "id" : 3,
-        "title" : "Golden",
+        "title" : "How Its Done",
         "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
+        "coverPath" : "/covers/howitsdone.png",
+        "songPath" : "/songs/howitsdone.mp3"
     },
     {
         "id" : 4,
-        "title" : "Golden",
+        "title" : "Takedown",
         "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
+        "coverPath" : "/covers/takedown.png",
+        "songPath" : "/songs/takedown.mp3"
     },
     {
         "id" : 5,
-        "title" : "Golden",
+        "title" : "Sodapop",
         "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
+        "coverPath" : "/covers/sodapop.png",
+        "songPath" : "/songs/sodapop.mp3"
     },
     {
         "id" : 6,
-        "title" : "Golden",
+        "title" : "What its sounds like",
         "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
+        "coverPath" : "/covers/whatitsoundslike.png",
+        "songPath" : "/songs/whatitsoundslike.mp3"
     },
     {
         "id" : 7,
-        "title" : "Golden",
+        "title" : "Your Idol",
         "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 8,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 9,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 10,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 11,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 12,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 13,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 14,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 15,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 16,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 17,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 18,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 19,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
-    },
-    {
-        "id" : 20,
-        "title" : "Golden",
-        "artist" : "Huntrix",
-        "coverPath" : "/covers/golden.png",
-        "songPath" : "/songs/golden.mp3"
+        "coverPath" : "/covers/youridol.png",
+        "songPath" : "/songs/youridol.mp3"
     }
 ]
