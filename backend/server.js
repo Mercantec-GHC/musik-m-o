@@ -115,6 +115,10 @@ function loadSongsFromFile() {
 app.use(cors());
 app.use(express.json());
 
+// Servér statiske filer (covers og sange)
+app.use('/covers', express.static(path.join(__dirname, 'covers')));
+app.use('/songs', express.static(path.join(__dirname, 'songs')));
+
 // Healthcheck endpoint - tjekker om serveren kører og om songs.json findes
 app.get("/api/health", (req, res) => {
   const songsPath = path.join(__dirname, "data", "songs.json");

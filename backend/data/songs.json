@@ -47,5 +47,23 @@
     "artist": "Huntrix",
     "coverPath": "/covers/youridol.png",
     "songPath": "/songs/youridol.mp3"
-    }
+  },
+  {
+    "id": 8,
+    "title": "I'm Gonna Be (500 Miles)",
+    "artist": "The Proclaimers",
+    "coverPath": "/covers/cover-1756725084780-804138886.jpg",
+    "songPath": "/songs/song-1756725084780-241841473.mp3",
+    "createdAt": "2025-09-01T11:11:24.812Z",
+    "updatedAt": "2025-09-01T11:11:24.812Z"
+  },
+  {
+    "id": 9,
+    "title": "Dark Necessities",
+    "artist": "Red Hot Chili Peppers",
+    "coverPath": "/covers/cover-1756812342780-346520670.jpg",
+    "songPath": "/songs/song-1756812342719-492862285.mp3",
+    "createdAt": "2025-09-02T11:25:42.783Z",
+    "updatedAt": "2025-09-02T11:25:42.783Z"
+  }
 ]
