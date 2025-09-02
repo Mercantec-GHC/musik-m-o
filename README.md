@@ -19,7 +19,7 @@ GF1-Spotify/
 └── MusicPlayer/      # Arduino kode (valgfrit)
 ```
 
-## 🎯 Backend 
+## 🎯 Backend
 
 ### Ansvar:
 - Servere API endpoints til frontend
